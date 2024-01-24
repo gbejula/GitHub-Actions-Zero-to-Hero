@@ -1,7 +1,6 @@
 # app.py
 # This is a test commit
 # This is another change for GitHub Actions.
-# This is a new change
 def add(a, b):
     return a + b
 
